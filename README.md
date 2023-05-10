@@ -1,5 +1,4 @@
 # Data-Getting-and-Cleaning
-# datacleaningproject
 Data Cleaning Project
 
 All the part before the ##Point 1 are related to the downloading, unzipping and reading of the tables, from the link given to the working folder.
